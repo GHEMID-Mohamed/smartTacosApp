@@ -1,7 +1,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 ## Smart Tacos Android App
 
-### Développement guidelines :
+### Developpement guidelines :
 
 1. Fork the project into your github Account, to do this, click **Fork** in the top-right corner of the page.
 2. ``` Git Clone < Repo Forked in your github Account > ```
