@@ -8,9 +8,12 @@
 3. ``` Git push ``` your work in progress
 4. When you finish a task create a **pull request** to the **develop** branch and **not** to the **master** branch.
 5. Your changes will be treated by the git integrator and merged when needed. Also, you can receive some feedbacks on your code.
+6. Check regulary ``` git status ``` and ``` git rebase ``` when your branch is behind the **develop** branch.
 
 The reason for this is that your changes will not be automaticly added to the project unless we all agreed about them.
 
-If you noticed any bug please report it by creating an **issue** in **smartTacosApp** repos.  
+If you noticed any bug please report it by creating an **issue** in **smartTacosApp** repos. 
+
+**ps :** when you fork this repos, it will be synchronized by your repos. 
 
 #### Happy Hacking ;)
