@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
                                     }
                                 }, 1500);
 
-                            } else if (numberOfSlidesPerSecond == 2) {
+                            } else if (numberOfSlidesPerSecond > 1) {
                                 // ====== Slice twice action =======
                                 editTextAction.setText("Slide twice action");
                                 Handler handler = new Handler();
